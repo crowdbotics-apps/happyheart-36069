@@ -998,6 +998,11 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
+"@modules/onboarding@file:./modules/onboarding":
+  version "1.0.0"
+  dependencies:
+    react-native-app-intro-slider "^4.0.4"
+
 "@modules/onboarding@file:./modules/onboarding/":
   version "1.0.0"
   dependencies:
